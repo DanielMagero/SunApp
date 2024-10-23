@@ -1,4 +1,4 @@
-function Home() {
+function index() {
   return (
     <body>
       <h1 textalign="center">The Sun App</h1>
@@ -14,4 +14,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default index;
