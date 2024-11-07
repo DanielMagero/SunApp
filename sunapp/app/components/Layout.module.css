@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+
+.openBtn {
+  margin: 16px;
+  font-size: 24px;
+}
+
+.mainContent {
+  margin-left: 250px; /* Adjust based on sidebar width */
+  padding: 16px;
+  transition: margin-left 0.3s;
+}
