@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from "./Sidebar.module.css";
 
 const Sidebar = ({ isOpen, closeSidebar }) => {
   return (
